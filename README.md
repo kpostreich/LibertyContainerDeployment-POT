@@ -1,0 +1,1 @@
+# Liberty Container Deployment with CP4Apps on OpenShift (PoT)

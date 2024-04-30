@@ -1,0 +1,6 @@
+site_name: Liberty Container Deployment on OpenShift PoT
+nav:
+  - Home: index.md
+  - Workshop Labs: day1.md
+theme: readthedocs  
+extra_css: ["extra.css"]
